@@ -2,6 +2,10 @@ from Agents.patient import generate_random_patient
 
 class ICUUnit:
     def __init__(self, bed_capacity, specialization):
+        '''
+        current_patients = houdt voor elke ICUUnit bij hoeveel patienten er
+                           op dat moment in zitten.
+        '''
         self.bed_capacity = bed_capacity
         self.specialization = specialization
         self.current_patients = []

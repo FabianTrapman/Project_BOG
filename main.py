@@ -43,5 +43,5 @@ icu_units = [
 ]
 
 simulation = ICUSimulation(icu_units)
-simulation.run_simulation(num_days=30)
+simulation.run_simulation(num_days=730)
 simulation.plot_simulation_results()
