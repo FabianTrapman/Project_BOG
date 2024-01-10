@@ -13,3 +13,12 @@ A: Er zijn 6 verschillende afdelingen (4 specialisaties, 1 COVID (ook specialisa
 
 Q: Over welke tijdspanne runnen & meten we de simulatie? -> moeten denken aan maanden - 3 maanden?
 A: Ik denk dat 2 jaar het beste is, aangezien de data ook over 2 jaar spant. -Jason
+
+Q: In dit geval hoeven we dus misschien maar 1 run per config te doen toch? Aangezien er over een lange periode gesimuleerd wordt, convergeert de data uiteindelijk toch naar hetzelfde punt lijkt me. Scheelt heel veel computing power namelijk.
+A:
+
+Q:
+A:
+
+Q:
+A:
