@@ -1,0 +1,2 @@
+Configuratie_ID,Bedcapaciteit,Aantal_GeneriekBed,Aantal_InfectieBed,Aantal_ABed,Aantal_BBed,Aantal_CBed,Bezettingsgraad,Aantal_Afwijzingen,Aantal_Geplande_Patienten,Aantal_Ongeplande_Patienten,Aantal_Herplande_Patienten,Gemiddelde_Verblijfsduur,Max_Bezettingsgraad,Simulatie_Stappen
+Config_00,25,5,8,4,4,4,75%,69,21,420,4,666,95%,10000
